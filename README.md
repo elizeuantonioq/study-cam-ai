@@ -85,7 +85,7 @@ Leia a [Política de Privacidade](https://gen-lang-client-0364942395.web.app/pri
 
 ## 👥 Equipe
 
-Desenvolvido pela **Prisma Academy** 🇧🇷
+Desenvolvido pela **Prisma Academy**
 
 📧 Suporte: [equipeprisma.oficial@gmail.com](mailto:equipeprisma.oficial@gmail.com)
 
